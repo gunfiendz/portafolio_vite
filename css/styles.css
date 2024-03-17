@@ -1,0 +1,68 @@
+
+header {
+  background-color: #8B4513; 
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+#bio {
+  text-align: center;
+  padding: 20px;
+}
+
+#bio img {
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+#contacto {
+  text-align: center;
+  padding: 20px;
+}
+
+#contacto button {
+  margin-top: 20px;
+}
+
+#conocimientos {
+  background-color: #f0f0f0;
+  padding: 20px;
+  text-align: center; 
+}
+
+#conocimientos h2 {
+  margin-top: 0;
+}
+
+#conocimientos ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0; 
+}
+
+#conocimientos li {
+  margin-bottom: 10px;
+  text-align: left; 
+}
+
+#proyectos {
+  background-color: #e0e0e0;
+  padding: 20px;
+  text-align: center; 
+}
+
+#proyectos h2 {
+  margin-top: 0;
+}
+
+.proyecto {
+  background-color: #fff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 15px;
+  margin-bottom: 20px;
+  text-align: left;
+  display: inline-block; 
+  margin: 10px; 
+}
